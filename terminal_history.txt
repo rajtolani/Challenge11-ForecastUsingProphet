@@ -1,0 +1,50 @@
+   16  cd Ch*
+   17  git config --list
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit -m "This version has the original starter files provided but the Fintech BootCamp Staff.
+   22  "
+   23  git push
+   24  git status
+   25  git add .
+   26  git commit -m "This version has all the code completed for this challenge"
+   27  git push
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "Final Commit for submission. Has all code, comments and Readme file."
+   32  git push
+   33  history 50 > terminal_history.txt
+   34  git status
+   35  git add .
+   36  git commit -m"Submitting terminal_history to show git useage"
+   37  git push
+   38  exit
+   39  cd c:/RajB*
+   40  cd Challenge-11
+   41  git config --global user.name Raj Tolani
+   42  git config --global user.email admin@tolanicollection.com
+   43  git config --list
+   44  git clone https://github.com/rajtolani/Challenge11-ForecastUsingProphet.git
+   45  l
+   46  ls
+   47  cd Cha*
+   48  ls
+   49  git status
+   50  git add .
+   51  git status
+   52  git status
+   53  git rm Resources/*
+   54  git status
+   55  git add .
+   56  git status
+   57  git commit -m "This version has the original starter files provided by the Fintech BootCamp Staff.All future versions of the Notebook file will be committed directly from Google Colab"
+   58  git push
+   59  git status
+   60  git add Readme.md
+   61  git commit -m "Submitting the Readme file. The completed  Jupyter Notebook has been commited directly form Google Colab. After this I will do one more commit to submit the terminal history to show git useage"
+   62  git add README.md
+   63  git commit -m "Submitting the Readme file. The completed  Jupyter Notebook has been commited directly form Google Colab. After this I will do one more commit to submit the terminal history to show git useage"
+   64  git push
+   65  history 50 > terminal_history.txt
