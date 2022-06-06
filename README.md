@@ -1,1 +1,7 @@
 # Challenge11-ForecastUsingProphet
+This Challenge is focused to the teach use of Time Series Data to visualize and analyse time based data. It focuses on google trends to see the search interest for ecommenrce site MercadoLibre. The hourly search trend is analysed to spot daily/weekly/yearly patterns. Use of plots is done to also look for seasonal patterns. It then analysis the stock price of this site and finds correlation between the google trend Data and stock price. Very interesting observations can be made looking at the plots including finding a disruption point in March 2020.
+The final part of this challenge requires use of Facebook Prophet to predict the Search trends for the future. Very intersting. I found that fitting the Prophet model is very compute intensive. The plot_comonents features of Facebook prophet is very useful
+
+I developed the code on Google Colaboratory. Very good learning experience. The Jupyter Notebook for this file was committed and pushed directly from the Colaboratory. You can run this notebook locally or on Google Colab. If run on local computer please make sure to install al prerequistes including Facebook Prophet. I have not tried but been told that Facebook prophet is complicated to install so I would suggest that you use Google Colab to run this 
+
+This has been the longest and for me the toughest of the Challenges in the bootcamp to date. Due to the amount of time this took, I have not attempted to do the optional part of this challenge but plan to do so on a later date
